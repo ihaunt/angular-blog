@@ -1,0 +1,6 @@
+
+hexa: 
+#121212
+#FFFFFF
+
+#ECECEC
